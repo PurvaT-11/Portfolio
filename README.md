@@ -9,15 +9,34 @@ I am a Master of Science in Computer Science student at the University of Illino
 
 ## 🔥 Projects
 
-### 1. 🏠 **Property Appreciation Estimation and Recommendation for Strategic Real Estate Investments**  
-**Description:**  
-Preprocessed 26,000+ rows and 305 columns of Zillow housing data and mortgage rates spanning two decades. Developed ARIMA models to predict property value trends for multiple timeframes (1 month, 1 quarter, and 1 year).  
+### 1. Property Appreciation Estimation and Recommendation for Strategic Real Estate Investments
 
-**Skills & Tools:**  
-Python, Pandas, NumPy, ARIMA, Plotly
+## Description:
+This project involves preprocessing over 26,000 rows and 305 columns of Zillow housing data and mortgage rates spanning two decades. The objective was to build predictive models to estimate property appreciation across various U.S. states.
 
-**Outcome:**  
-Achieved a prediction accuracy of 68% for property value trends across 50 U.S. states.
+## Tools & Technologies Used:
+- Python
+- Pandas
+- NumPy
+- ARIMA
+- Plotly
+
+## Outcome:
+Built ARIMA models for 50 U.S. states to predict property value trends for timeframes of 1 month, 1 quarter, and 1 year, achieving an accuracy of 68%. Interactive visualizations were created to showcase trends, which can be accessed through the report.
+
+## Project Report:
+You can download and view the full report of the project below:
+
+[Download the Property Estimation Project Report](Property_Estimation_Project_Report.pdf)
+
+## Instructions:
+1. Clone the repository.
+2. Run the provided Python scripts to replicate the analysis (coming soon if the code is added later).
+3. Explore the results and visualizations in the provided report.
+
+## Acknowledgements:
+- Zillow Housing Data
+- Various open-source libraries like Pandas, NumPy, and ARIMA
 
 ---
 
