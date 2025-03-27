@@ -1,9 +1,9 @@
-# Purva Tandel – Data Science Portfolio
+# Purva Tandel – Portfolio
 
 📫 **Contact:** [ptand@uic.edu](mailto:ptand@uic.edu) | [LinkedIn](https://www.linkedin.com/in/ptandel/)
 
 ## About Me
-I am a Master of Science in Computer Science student at the University of Illinois Chicago, passionate about data science, AI, and cloud technologies. I specialize in building data-driven solutions and experimenting with GenAI tools.
+I am a Master of Science in Computer Science student at the University of Illinois Chicago, passionate about software development, data science, AI, and cloud technologies. I specialize in building data-driven solutions and experimenting with GenAI tools.
 
 ---
 
