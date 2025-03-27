@@ -14,12 +14,11 @@ Skills & Tools: Python, Pandas, NumPy, ARIMA, Plotly
 
 Outcome: Built ARIMA models for 50 U.S. states to predict property value trends for 1 month, 1 quarter, and 1 year, achieving 68% accuracy.
 
-2. 🔗 DualDB Connect API
-Description: Built a RESTful API using Flask to connect MongoDB and MySQL, managing 100,000+ records efficiently.
+#### 2. 🔗 [DualDB Connect API]( https://github.com/PurvaT-11/DualDB-Connect.git ) 
+- **Description:** Built a **RESTful API** using Flask to connect **MongoDB and MySQL**, managing **100,000+ records** efficiently.  
+- **Skills & Tools:** Flask, MongoDB, MySQL, Python  
+- **Outcome:** Optimized **15+ CRUD endpoints**, improving response times by **30%** and supporting **500+ requests/second**.  
 
-Skills & Tools: Flask, MongoDB, MySQL, Python
-
-Outcome: Optimized 15+ CRUD endpoints, improving response times by 30% and supporting 500+ requests/second.
 
 3. 💻 Skive – A Desktop App
 Description: Created an application using PyQt to facilitate team collaboration with features like video streaming and screen sharing.
