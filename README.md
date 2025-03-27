@@ -1,56 +1,79 @@
-# Portfolio
+# Purva Tandel – Data Science Portfolio
 
-💻 Purva Tandel – Data Science Portfolio
-📫 Contact: ptand@uic.edu | https://www.linkedin.com/in/ptandel/
+📫 **Contact:** [ptand@uic.edu](mailto:ptand@uic.edu) | [LinkedIn](https://www.linkedin.com/in/ptandel/)
 
-🚀 About Me
-I am a Master of Science in Computer Science student at the University of Illinois Chicago, passionate about data science, AI, and cloud technologies. I enjoy building data-driven solutions and experimenting with GenAI tools.
+## About Me
+I am a Master of Science in Computer Science student at the University of Illinois Chicago, passionate about data science, AI, and cloud technologies. I specialize in building data-driven solutions and experimenting with GenAI tools.
 
-🔥 Projects
-1. 🏠 Property Appreciation Estimation and Recommendation for Strategic Real Estate Investments
-Description: Preprocessed 26,000+ rows & 305 columns of Zillow housing data & mortgage rates spanning two decades.
+---
 
-Skills & Tools: Python, Pandas, NumPy, ARIMA, Plotly
+## 🔥 Projects
 
-Outcome: Built ARIMA models for 50 U.S. states to predict property value trends for 1 month, 1 quarter, and 1 year, achieving 68% accuracy.
+### 1. 🏠 **Property Appreciation Estimation and Recommendation for Strategic Real Estate Investments**  
+**Description:**  
+Preprocessed 26,000+ rows and 305 columns of Zillow housing data and mortgage rates spanning two decades. Developed ARIMA models to predict property value trends for multiple timeframes (1 month, 1 quarter, and 1 year).  
 
-#### 2. 🔗 [DualDB Connect API]( https://github.com/PurvaT-11/DualDB-Connect.git ) 
-- **Description:** Built a **RESTful API** using Flask to connect **MongoDB and MySQL**, managing **100,000+ records** efficiently.  
-- **Skills & Tools:** Flask, MongoDB, MySQL, Python  
-- **Outcome:** Optimized **15+ CRUD endpoints**, improving response times by **30%** and supporting **500+ requests/second**.  
+**Skills & Tools:**  
+Python, Pandas, NumPy, ARIMA, Plotly
 
+**Outcome:**  
+Achieved a prediction accuracy of 68% for property value trends across 50 U.S. states.
 
-3. 💻 Skive – A Desktop App
-Description: Created an application using PyQt to facilitate team collaboration with features like video streaming and screen sharing.
+---
 
-Skills & Tools: PyQt, SQLite, Python
+### 2. 🔗 **[DualDB Connect API](https://github.com/PurvaT-11/DualDB-Connect.git)**  
+**Description:**  
+Built a RESTful API using Flask to connect MongoDB and MySQL, efficiently managing 100,000+ records. Optimized multiple CRUD endpoints to handle high request loads.  
 
-Outcome: Added to-do lists and chat groups, improving team productivity with personalized scheduling suggestions.
+**Skills & Tools:**  
+Flask, MongoDB, MySQL, Python
 
-4. ☁️ Cloud-based Banking Application
-Description: Deployed an application using AWS CodePipeline, Elastic Beanstalk, and CloudFormation for automated CI/CD.
+**Outcome:**  
+Improved API response times by 30% and supported 500+ requests/second.
 
-Skills & Tools: AWS, Docker, ECS, S3, IAM
+---
 
-Outcome: Improved scalability with auto-scaling groups, handled variable traffic efficiently, and ensured data security with IAM roles and S3 encryption.
+### 3. 💻 **Skive – A Desktop App for Team Collaboration**  
+**Description:**  
+Developed a desktop application with PyQt to facilitate team collaboration, including features for video streaming, screen sharing, to-do lists, and chat groups.  
 
-5. 🔍 Hotel Room Cancellation Analysis
-Description: Developed an ETL pipeline using Python and PostgreSQL with logistic regression & decision trees to forecast cancellations.
+**Skills & Tools:**  
+PyQt, SQLite, Python
 
-Skills & Tools: Python, PostgreSQL, Flask, Seaborn
+**Outcome:**  
+Enhanced team productivity by providing personalized scheduling suggestions and improving communication.
 
-Outcome: Created a Flask-based dashboard to visualize trends, reducing data processing time by 25%.
+---
 
-⚙️ Skills & Tools
-Programming: Python, Flask
+### 4. ☁️ **Cloud-based Banking Application**  
+**Description:**  
+Deployed a scalable cloud application using AWS services such as CodePipeline, Elastic Beanstalk, and CloudFormation. Implemented auto-scaling, load balancing, and data security measures.  
 
-Data Visualization: Matplotlib, Seaborn, Plotly, Power BI
+**Skills & Tools:**  
+AWS, Docker, ECS, S3, IAM
 
-Cloud Platforms: AWS (CodePipeline, Elastic Beanstalk, S3, ECS)
+**Outcome:**  
+Ensured high availability, scalable performance, and robust security for sensitive financial data.
 
-Databases: MongoDB, MySQL, PostgreSQL
+---
 
-AI/ML: ARIMA, Logistic Regression, Decision Trees
+### 5. 🔍 **Hotel Room Cancellation Analysis**  
+**Description:**  
+Built an ETL pipeline to forecast hotel cancellations using logistic regression and decision trees. Created a Flask-based dashboard to visualize cancellation trends.  
 
-Tools: Docker, PyQt, Figma, Microsoft Office
+**Skills & Tools:**  
+Python, PostgreSQL, Flask, Seaborn
 
+**Outcome:**  
+Reduced data processing time by 25% and provided actionable insights for hotel management.
+
+---
+
+## ⚙️ Skills & Tools
+
+- **Programming:** Python, Flask
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
+- **Cloud Platforms:** AWS (CodePipeline, Elastic Beanstalk, S3, ECS)
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **AI/ML:** ARIMA, Logistic Regression, Decision Trees
+- **Tools:** Docker, PyQt, Figma, Microsoft Office
