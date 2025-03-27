@@ -29,11 +29,6 @@ You can download and view the full report of the project below:
 
 [Download the Property Estimation Project Report](Property_Estimation_Project_Report.pdf)
 
-## Instructions:
-1. Clone the repository.
-2. Run the provided Python scripts to replicate the analysis (coming soon if the code is added later).
-3. Explore the results and visualizations in the provided report.
-
 ## Acknowledgements:
 - Zillow Housing Data
 - Various open-source libraries like Pandas, NumPy, and ARIMA
